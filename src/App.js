@@ -6,7 +6,7 @@ import  Projects  from './pages/Projects'
 import  Resume  from './pages/Resume'
 import TopOfPage from './components';
 import StreamersDen from './assets/StreamersDen.png';
-import Gamemap from './assets/Gamemap.jpg';
+import Gamemap from './assets/Gamemap.png';
 import inQUIZator from './assets/inQuizator.png';
 
 const projects = [

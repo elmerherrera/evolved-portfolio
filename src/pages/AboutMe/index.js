@@ -22,3 +22,5 @@ const AboutMe = () => {
       </Container>
   );
 }
+
+export default AboutMe
