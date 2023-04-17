@@ -5,9 +5,9 @@ import  Contact  from './pages/Contact'
 import  Projects  from './pages/Projects'
 import  Resume  from './pages/Resume'
 import TopOfPage from './components';
-import StreamersDen from './assets/StreamersDen.png';
-import Gamemap from './assets/Gamemap.png';
-import inQUIZator from './assets/inQUIZator.png';
+import StreamersDen from './assets/images/StreamersDen.png';
+import Gamemap from './assets/images/Gamemap.jpg';
+import inQUIZator from './assets/images/inQuizator.png';
 
 const projects = [
   {
